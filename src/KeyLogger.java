@@ -17,6 +17,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextArea;
 import javax.swing.border.LineBorder;
 
+
 /**
  * The Keylogger program is an implementation of authentication using
  * a typing profile or fingerprint. The user can type in the text field
